@@ -1,0 +1,13 @@
+Fazer um algoritmo (em Portugol) que leia uma matriz 15x15 e multiplique cada elemento da linha da matriz pelo 1º elemento da respectiva linha. Além disso, trocar a coluna 12 com a coluna referente ao último dígito do seu RA. Por fim, gerar um vetor com todos os elementos pares da matriz. Mostrar a matriz e o vetor.
+
+
+Para um campeonato de salto, fazer um algoritmo (em Portugol) que leia a altura do salto, em metros, de 70 atletas e armazene em um vetor. Após a leitura de todos os dados, faça: imprima a média dos saltos do campeonato, e quantos atletas com salto acima dessa média; e substitua todos os saltos com valores negativos por 0 (zero).
+
+
+Fazer (em Portugol) um menu contendo opções para executar três diferentes subprogramas, sendo a quarta opção para sair do algoritmo. Após executar a opção selecionada, mostrar todas as opções novamente. Os subprogramas são os seguintes:
+
+a) Receber dois números inteiros e retorne 1 se a soma for ímpar e 2 se a soma for par.
+
+b) Calcular o valor do somatório S, sendo que o valor de N (quantidade de termos do somatório) deve ser passado como parâmetro. O somatório é:  S = 1/3 + 2/5 + 3/7 + ...
+
+c) Calcular a média dos números ímpares de um vetor de elementos. Fazer o subprograma de forma que possa ser utilizado para qualquer tamanho de vetor.
