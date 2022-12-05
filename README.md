@@ -1,3 +1,7 @@
 # Algorítmo e Lógica de Programação
 
-Repositório dos arquivos da matéria de Algorítmo e Lógica de Programação do 1º semestre do curso de DSM (Desenvolvimento de Software Multiplataforma) da Fatec (Franca/SP)
+Curso: Desenvolvimento de Software Multiplataforma (Fatec - Franca/SP)
+
+Disciplina: Algorítmo e Lógica de Programação
+
+Período: 1º semestre (2022/2)
